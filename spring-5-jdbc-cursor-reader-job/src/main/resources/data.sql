@@ -1,0 +1,11 @@
+insert into cliente (nome, sobrenome, idade, email) values ('MARIA', 'SILVA', 20, 'maria@gmail.com');
+insert into cliente (nome, sobrenome, idade, email) values ('CAROLINE', 'MERCEDES', 30, 'caroline@gmail.com');
+insert into cliente (nome, sobrenome, idade, email) values ('CARLA', 'BENS', 21, 'carla@gmail.com');
+insert into cliente (nome, sobrenome, idade, email) values ('JANAINA', 'HELENA', 26, 'janaina@gmail.com');
+insert into cliente (nome, sobrenome, idade, email) values ('PATRICIA', 'CORRENTE', 22, 'patricia@gmail.com');
+insert into cliente (nome, sobrenome, idade, email) values ('MANOELA', 'PAIVA', 34, 'manoela@gmail.com');
+insert into cliente (nome, sobrenome, idade, email) values ('LARISSA', 'DE SABRI', 21, 'larissa@gmail.com');
+insert into cliente (nome, sobrenome, idade, email) values ('REBECA', 'MENDES', 22, 'rebeca@gmail.com');
+insert into cliente (nome, sobrenome, idade, email) values ('ADRIANA', 'BURNYAK', 20, 'adriana@gmail.com');
+insert into cliente (nome, sobrenome, idade, email) values ('MARINA', 'STOIKOV', 25, 'marina@gmail.com');
+insert into cliente (nome, sobrenome, idade, email) values ('LETICIA', 'YUMI', 30, 'leticia@gmail.com');
